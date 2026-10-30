@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jemar\\source\\repos\\TiendaElectronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEDB0AF-5F2E-491D-AF0C-4B3DDC9EF268}|plantillaInterfaces1\\plantillaInterfaces1.vcxproj|C:\\Users\\jemar\\source\\repos\\TiendaElectronica\\plantillaInterfaces1\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BCEDB0AF-5F2E-491D-AF0C-4B3DDC9EF268}|plantillaInterfaces1\\plantillaInterfaces1.vcxproj|solutionrelative:plantillaInterfaces1\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\jemar\\source\\repos\\TiendaElectronica\\plantillaInterfaces1\\main.asm",
+              "RelativeDocumentMoniker": "plantillaInterfaces1\\main.asm",
+              "ToolTip": "C:\\Users\\jemar\\source\\repos\\TiendaElectronica\\plantillaInterfaces1\\main.asm",
+              "RelativeToolTip": "plantillaInterfaces1\\main.asm",
+              "ViewState": "AgIAAIsGAAAAAAAAAAAAAN8FAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-01T04:19:26.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

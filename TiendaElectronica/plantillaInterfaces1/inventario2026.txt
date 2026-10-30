@@ -1,0 +1,5 @@
+ABC-001|Laptop Msi|999999|10
+ABC-002|Macbook Pro M5|800000|5
+ABC-003|Limpiador de pantallas|1|99
+ABC-004|Pantalla Lg|500000|0
+ABC-005|Mouse Logitech |180000|100
