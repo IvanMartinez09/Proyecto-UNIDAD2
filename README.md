@@ -15,3 +15,14 @@ Sistema de consola en MASM x86 de 32 bits con la biblioteca Irvine32 para una ti
 [CODIGO](TiendaElectronica/plantillaInterfaces1/main.asm)
 
 [INVENTARIO DE INVENTARIO](TiendaElectronica/plantillaInterfaces1/inventario2026.txt)
+
+## Compilación y ejecución
+
+1. Clonar el repositorio:
+   ```
+   git clone https://github.com/IvanMartinez09/Proyecto-UNIDAD2.git
+   ```
+2. Abrir el archivo `.sln` que está dentro de la carpeta `TiendaElectronica`.
+3. Verificar que la plataforma seleccionada sea **x86**.
+4. Compilar con **Ctrl + Shift + B**.
+
