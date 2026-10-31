@@ -20,6 +20,7 @@ Sistema de consola en MASM x86 de 32 bits con la biblioteca Irvine32 para una ti
 
 [TABLA DE PRUEBAS](https://github.com/IvanMartinez09/Proyecto-UNIDAD2/blob/main/TablaPruebas_TiendaElectronica.pdf)
 
+
 ## Compilación y ejecución
 
 1. Clonar el repositorio:
